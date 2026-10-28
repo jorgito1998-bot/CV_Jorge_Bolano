@@ -25,7 +25,7 @@
 - **Scrip**
 
 ---
-
+<--
 ## 🎨 Formatos y Fuentes Disponibles
 
 ### **Negrita:**
@@ -70,4 +70,4 @@
 ---
 
 Esta plantilla en Markdown es editable y adaptable para cada estudiante. ¡Personaliza según sea necesario! 🎯
-
+-->
