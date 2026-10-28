@@ -12,8 +12,6 @@
 ### **EDS Costa Line** _(2018 - Actualidad)_
 - Jefe de sistemas - Encargado del funcionamiento del sistema de la eds, de la red de internet, de las camaras y todo lo relacionado con sistematizacion.
 
-### **Empresa ABC** _(2018 - 2020)_
-- Puesto ocupado y descripción breve.
 
 ## 🎓 Educación
 ### **UNAD** _(2023 - Actualidad)_
