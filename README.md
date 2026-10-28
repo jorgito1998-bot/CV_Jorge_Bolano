@@ -1,29 +1,30 @@
-# CV_Example
+
 # Hoja de Vida
 
-## Nombre Completo
-**Profesión:** _Tu profesión_
+## Jorge Enoth Bolaño Martínez
+**Profesión:** Ingeniería de sistemas
 
 ## 📞 Contacto
-- **Teléfono:** +57 123 456 7890
-- **Email:** [correo@ejemplo.com](mailto:correo@ejemplo.com)
-- **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
+- **Email:** [bolanojorgegol@gmail.com](bolanojorgegol@gmail.com)
+- **LinkedIn:** [linkedin.com/in/jorge-bolaño-338927412](https://linkedin.com/in/jorge-bolaño-338927412)
 
 ## 🏢 Experiencia Laboral
-### **Empresa XYZ** _(2020 - Actualidad)_
-- Puesto ocupado y descripción breve.
+### **EDS Costa Line** _(2018 - Actualidad)_
+- Jefe de sistemas - Encargado del funcionamiento del sistema de la eds, de la red de internet, de las camaras y todo lo relacionado con sistematizacion.
 
 ### **Empresa ABC** _(2018 - 2020)_
 - Puesto ocupado y descripción breve.
 
 ## 🎓 Educación
-### **Universidad Ejemplo** _(2014 - 2018)_
-- Título obtenido.
+### **UNAD** _(2023 - Actualidad)_
+- Ingeniería de sistemas.
+### **Sena** _(2014 - 2015)_
+- Técnico de sistemas.
 
 ## 💡 Habilidades
-- **Habilidad 1**
-- **Habilidad 2**
-- **Habilidad 3**
+- **Java Scrip**
+- **C#**
+- **Scrip**
 
 ---
 
